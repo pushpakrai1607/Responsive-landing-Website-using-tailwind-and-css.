@@ -1,6 +1,6 @@
 # Responsive-landing-Website-using-tailwind-and-css.
 
-<a href="https://jocular-tulumba-f7eae5.netlify.app/"> # Responsive-landing-Website-using-tailwind-and-css. </a>
+<a href="https://jocular-tulumba-f7eae5.netlify.app/" target="_blank"> # Responsive-landing-Website-using-tailwind-and-css. </a>
 
 <b>  This challenge will be a great test for your responsive skills. There are lots of small details and slight content shifts for different screen sizes. </b>
 
